@@ -1,0 +1,4 @@
+﻿{
+  "outputDirectory": "dist/reservafacil-frontend/browser",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
